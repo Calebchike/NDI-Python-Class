@@ -1,0 +1,610 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" mozdisallowselectionprint>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    
+    <meta name="csrf-token" content="DdM6Btt5Pv1bFYP3zUuuDmcXnKf7dpDJAAWOpkIe">
+
+    <meta itemprop="name" content="Bakery Business Plan" />
+    <meta itemprop="description" content="Utibe Bakery Ltd is a start-up bakery retail establishment located in Lagos Nigeria. Utibe Bakery Ltd expects to catch the interest of a regular loyal customer base with its broad variety of pastry products. The company plans to build a strong market position in the town, due to the partners&#039; industry experience and mild competitive climate in the area. Population growth spurs rapid growth in baked goods in Nigeria since bread is a major staple and pastries have become the on-the-go snack of ..." />
+
+    <meta name="description" content="Utibe Bakery Ltd is a start-up bakery retail establishment located in Lagos Nigeria. Utibe Bakery Ltd expects to catch the interest of a regular loyal customer base with its broad variety of pastry products. The company plans to build a strong market position in the town, due to the partners&#039; industry experience and mild competitive climate in the area. Population growth spurs rapid growth in baked goods in Nigeria since bread is a major staple and pastries have become the on-the-go snack of ..." />
+    <meta name="keywords" content=" Afribary, Library, Research, Project, project topics,academic research works,seminar topics, online academic library, thesis,projects,seminars,essays,papers,thesis topics,project materials,essay,writing project,project writing, essay topics" />
+    <meta itemprop="image" content="https://cdn.afribary.com/works/thumbs/2024/3/29/rjg2vaeZlTqOwVgUR83ODk7jfCMrJzvrUKbULhhu.jpg">
+    <meta name="robots" content="index, follow"/>
+    <meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"/>
+    <meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"/>
+            <link rel="canonical" href="https://afribary.com/works/bakery-business-plan"/>
+            
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="https://afribary.com/works/bakery-business-plan">
+    <meta name="twitter:title" content="Bakery Business Plan">
+    <meta name="twitter:description" content="Utibe Bakery Ltd is a start-up bakery retail establishment located in Lagos Nigeria. Utibe Bakery Ltd expects to catch the interest of a regular loyal customer base with its broad variety of pastry products. The company plans to build a strong market position in the town, due to the partners&#039; industry experience and mild competitive climate in the area. Population growth spurs rapid growth in baked goods in Nigeria since bread is a major staple and pastries have become the on-the-go snack of ...">
+    <meta name="twitter:creator" content="Africana Resources">
+    <meta name="twitter:image" content="https://cdn.afribary.com/works/thumbs/2024/3/29/rjg2vaeZlTqOwVgUR83ODk7jfCMrJzvrUKbULhhu.jpg">
+    
+    <meta property="og:title" content="Bakery Business Plan" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://afribary.com/works/bakery-business-plan" />
+    <meta property="og:image" content="https://cdn.afribary.com/works/thumbs/2024/3/29/rjg2vaeZlTqOwVgUR83ODk7jfCMrJzvrUKbULhhu.jpg" />
+    <meta property="og:description" content="Utibe Bakery Ltd is a start-up bakery retail establishment located in Lagos Nigeria. Utibe Bakery Ltd expects to catch the interest of a regular loyal customer base with its broad variety of pastry products. The company plans to build a strong market position in the town, due to the partners&#039; industry experience and mild competitive climate in the area. Population growth spurs rapid growth in baked goods in Nigeria since bread is a major staple and pastries have become the on-the-go snack of ..." />
+    <meta property="og:site_name" content="Afribary" />
+
+    <link rel=preload href="https://afribary.com/fonts/icomoon/fonts/icomoon.ttf?lz63y2" as="font" type="font/ttf" crossorigin>
+    <link rel="preload" href="/css/afribary.ui.min.css?id=cc73a92976a436605d400ad016de8d43" as="style">
+    <link rel="preload" href="https://afribary.com/js/jquery/jquery-3.6.3.min.js" as="script">
+
+    
+    <link rel="shortcut icon" href="https://afribary.com/img/favicon.ico" type="image/x-icon" />
+    <link rel="apple-touch-icon" href="https://afribary.com/img/apple-touch-icon.png" />
+    <link rel="apple-touch-icon" sizes="57x57" href="https://afribary.com/img/apple-touch-icon-57x57.png" />
+    <link rel="apple-touch-icon" sizes="72x72" href="https://afribary.com/img/apple-touch-icon-72x72.png" />
+    <link rel="apple-touch-icon" sizes="76x76" href="https://afribary.com/img/apple-touch-icon-76x76.png" />
+    <link rel="apple-touch-icon" sizes="114x114" href="https://afribary.com/img/apple-touch-icon-114x114.png" />
+    <link rel="apple-touch-icon" sizes="120x120" href="https://afribary.com/img/apple-touch-icon-120x120.png" />
+    <link rel="apple-touch-icon" sizes="144x144" href="https://afribary.com/img/apple-touch-icon-144x144.png" />
+    <link rel="apple-touch-icon" sizes="152x152" href="https://afribary.com/img/apple-touch-icon-152x152.png" />
+    <link rel="apple-touch-icon" sizes="180x180" href="https://afribary.com/img/apple-touch-icon-180x180.png" />
+
+    
+    <title>Bakery Business Plan</title>
+    <link rel="stylesheet" type="text/css" href="https://afribary.com/css/afribary.ui.min.css">
+    <link rel="stylesheet" type="text/css" href="https://afribary.com/css/extras.css">
+    <style type="text/css">.footer-section .copyright-links {font-size: .9rem;} .navbar-light .navbar-nav .red-link, .footer-section .copyright-links a.red-link, .footer-section .list-unstyled a.red-link{color: #af5a05} .footer-section li a.text-muted{margin-bottom: 7px;display:block;}</style>
+
+    
+        <style>
+        .ad, .topad {
+            margin: 5px auto;
+            text-align: center;
+            width: 100%;
+            max-height: 100px;
+        }
+        @media screen and (min-width: 600px) {
+            .pdfad {
+                max-height: 100px !important;
+            }
+        }
+        @media screen and (max-width: 480px) {
+            .topad, .pdfad {
+                height: auto;
+            }
+        }
+        .unlock {
+            position: absolute;
+            top: -110px;
+            left: 40%;
+        }
+        .unlock-box{
+            text-align: center;
+            margin-top: -75px;
+            background: #e9efea;
+        }
+        .unlock-box-content{
+            text-align: left;
+            margin-left: auto;
+            margin-right: auto;
+            list-style: none;
+            padding: 8px 0px;
+            position: relative;
+            width: 100%;
+            max-width: 700px;
+            min-width: 300px;
+        }
+        .unlock-box-content li::before {
+            padding-right: 8px;
+            content: "✓";
+            font-weight: bolder;
+            color: #dc3545;
+            display: inline-block;
+        }
+        #page-content-container{ height: 100% }
+        #pdf-viewer {
+            width: 100%;
+            height: 100%;
+            min-height: 200px;
+            /* background: rgba(0, 0, 0, 0.1); */
+            overflow: auto;
+        }
+        
+        .pdf-page-canvas {
+            display: block;
+            width: 100%;
+            margin: 5px auto;
+            border: 1px solid rgba(0, 0, 0, 0.2);
+        }
+        #page-loader {
+            height: 50px;
+            line-height: 50px;
+            text-align: center;
+            display: none;
+            color: #999999;
+            font-size: 13px;
+        }
+    </style>
+
+    
+    <script src="https://afribary.com/js/jquery/jquery-3.6.3.min.js" type="d9c558fda1d995af1ddadbdc-text/javascript"></script>
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <!-- Google Tag Manager -->
+    <script type="d9c558fda1d995af1ddadbdc-text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-N22BHB7');</script>
+    <!-- End Google Tag Manager -->
+
+        <!--<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+    <script>
+        window.OneSignal = window.OneSignal || [];
+        OneSignal.push(function() {
+            OneSignal.init({
+                appId: "c77aecae-5d32-42d5-a6cd-41380235d83a",
+                safari_web_id: "web.onesignal.auto.5bb9a1c9-03c0-4629-b099-1bc8c9257be5",
+                notifyButton: {
+                    enable: false,
+                }
+            });
+        });
+    </script> -->
+    
+    
+        <script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js" type="d9c558fda1d995af1ddadbdc-text/javascript"></script>
+        <script type="d9c558fda1d995af1ddadbdc-text/javascript">
+        window.googletag = window.googletag || {cmd: []};
+        googletag.cmd.push(function() {
+            googletag.defineSlot('/23212819861/topreadpage', [[728, 90], 'fluid', [750, 100], [320, 50], [468, 60], [970, 90], [950, 90]], 'div-gpt-ad-1732028014573-0').addService(googletag.pubads());
+            googletag.pubads().enableSingleRequest();
+            googletag.pubads().collapseEmptyDivs();
+            googletag.enableServices();
+        });
+        </script>
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3143548529401804" crossorigin="anonymous" type="d9c558fda1d995af1ddadbdc-text/javascript"></script>
+    
+     
+</head>
+
+<body>
+
+
+<noscript>
+    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N22BHB7" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+
+
+    <div class="page-wrap" id="page-content-container">
+        <div class="custom-navbar">
+    <nav class="navbar navbar-expand-lg navbar-light navbar-light-grey">
+        <div class="container">
+            <a class="navbar-brand mr-4" href="https://afribary.com"><img src="https://afribary.com/img/logo.png" alt="Afribary" /></a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                                    <form method="GET" action="https://afribary.com/search" class="form-inline my-2 my-lg-0 mr-auto custom-search-input md left">
+                        <input type="text" name="search" id="searchtop" value="" class="form-control mr-sm-2" placeholder="Search" aria-label="Search">
+                        <i class="icon-search"></i>
+                    </form>
+                
+                <ul class="navbar-nav ml-auto right">
+                    <!-- <li class="nav-item"><a class="nav-link" href="https://afribary.com/works"> Browse Categories </a></li> -->
+                    <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLinkOne" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Browse Categories</a>
+                                <div class="dropdown-menu dropdown-menu-right dropright" aria-labelledby="navbarDropdownMenuLinkOne">
+                                    <a class="dropdown-item font-weight-bold dropdown-toggle " href="#" id="navbarDropdownMenuLinkTwo" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> 
+                                        Academic Documents & Papers 
+                                    </a>
+                                    <div class="dropdown-menu dropdown-menu-left dropdown-submenu" aria-labelledby="navbarDropdownMenuLinkTwo">
+                                        <a class="dropdown-item font-weight-bold" href="https://afribary.com/works">Browse Research Works</a>
+                                        <a class="dropdown-item font-weight-bold" href="https://afribary.com/study"> Browse Study Materials </a>
+                                        <a class="dropdown-item font-weight-bold" href="https://afribary.com/books"> Browse Books </a>
+                                        <a class="dropdown-item font-weight-bold" href="https://afribary.com/institutions"> Browse by Institutions </a>
+                                    </div>
+                                    
+                                    <a class="dropdown-item font-weight-bold" href="https://afribary.com/business"> Business Documents & Templates </a>
+                                    <a class="dropdown-item font-weight-bold" href="https://afribary.com/legal"> Legal Documents & Templates </a>
+                                </div>
+                        </li>
+
+                    <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLinkOne" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Resources</a>
+                            <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownMenuLinkOne">
+                                <a class="dropdown-item font-weight-bold" href="https://afribary.com/topics"> Get Topics by Field </a>
+                                <a class="dropdown-item font-weight-bold" href="https://afribary.com/opportunities"> Scholarships/Opportunities </a>
+                                <a class="dropdown-item font-weight-bold" href="https://afribary.com/plagiarism-checker"> Plagiarism Checker Tool </a>
+                                <a class="dropdown-item font-weight-bold" href="https://afribary.com/blog"> Blog </a>
+                                <a class="dropdown-item font-weight-bold" href="https://afribary.com/knowledge"> Knowledge Base </a>
+                                <a class="dropdown-item font-weight-bold" href="https://afribary.com/how-to-order"> How it Works </a>
+                                <!-- <a class="dropdown-item font-weight-bold red-link" href="https://afribary.com/write-request?utm_source=afribary.com&utm_campaign=afribary+menu&utm_medium=web"> Hire a Researcher / Writer </a> -->
+                            </div>
+                        </li>
+                    <li class="nav-item"><a class="nav-link" href="https://afribary.com/pricing"> Pricing </a></li>
+                                            <li class="nav-item"><a class="nav-link" href="https://afribary.com/login"> Log In </a></li>
+                        <li class="nav-item"><a class="nav-link btn btn-primary" href="https://afribary.com/register"> Register </a></li>
+                    
+                                    </ul>
+            </div>
+        </div>
+    </nav>
+</div>
+<style>
+    .dropdown-menu .dropdown-submenu {
+    display: none;
+    position: absolute;
+    top: 0;
+    }
+    .dropdown-menu .dropdown-submenu.show {
+        display: block;
+        left: 100%;
+    }
+    .navbar-nav .dropdown-menu .dropdown-item {
+        margin-top: 0.25rem;
+        margin-bottom: 0.25rem;
+    }
+    @media screen and (max-width: 768px){
+        .dropdown-menu .dropdown-submenu.show {
+            position: relative;
+            left: 0;
+        }
+    }
+</style>
+
+
+        <div style="width: 100%; height: 100%; display: table;">
+            
+            <section class="hero topic-detail shadow">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-md-12">
+                <ol class="breadcrumb text-center">
+                    <li class="breadcrumb-item"><a href="https://afribary.com"> Home </a></li>
+                    <li class="breadcrumb-item"><a href="https://afribary.com/business"> Business Documents & Templates </a></li>
+                    <li class="breadcrumb-item"><a href="https://afribary.com/business/fields/management-strategy"> Management &amp; Strategy </a></li>
+                                        <li class="breadcrumb-item"><a href="https://afribary.com/templates/bakery-business-plan"> Bakery Business Plan </a></li>
+                                    </ol>
+
+                <div class="hero-content">
+                    <h1 class="hero-heading" id="title">Bakery Business Plan</h1>
+<div class="topic-metas">
+     <span>
+         <i class="icon-author"></i> <a  href="https://afribary.com/authors/africana-resources"> Africana Resources </a>
+                    </span>     
+        <span><i class="icon-pages"></i> 28 PAGES (8291 WORDS)</span>
+        
+    <span><i class="icon-tag-2"></i> <a  href="https://afribary.com/business/fields/management-strategy/sub-fields/plans-proposals"> Plans &amp; Proposals </a></span>
+     <span><i class="icon-tag-2"></i><a  href="https://afribary.com/business/fields/management-strategy/sub-fields/plans-proposals?types[]=template"> Template </a></span>     
+</div>
+
+<div class="cta-buttons mt-2">
+                        <a href="#" onclick="if (!window.__cfRLUnblockHandlers) return false; followUnfollow(event);" class="btn btn-outline-secondary btn-sm mb-1" data-formId="author-follow-form-africana-resources" data-followText="Follow Author" data-unfollowText="Unfollow Author" id="btn-author-follow-form-africana-resources" data-cf-modified-d9c558fda1d995af1ddadbdc-=""><i class="icon-plus" id="icon-author-follow-form-africana-resources"></i> Follow Author </a>
+            <form action="https://afribary.com/authors/africana-resources/follow" method="POST" style="display: inline;" id="author-follow-form-africana-resources">
+                <input type="hidden" name="_token" value="DdM6Btt5Pv1bFYP3zUuuDmcXnKf7dpDJAAWOpkIe" autocomplete="off">
+                
+            </form>
+        
+                    <a href="#" onclick="if (!window.__cfRLUnblockHandlers) return false; saveUnsave(event);" class="btn btn-outline-secondary btn-sm mb-1" data-formId="save-work-form-bakery-business-plan" data-saveText="Save" data-unSaveText="Unsave" id="btn-save-work-form-bakery-business-plan" data-cf-modified-d9c558fda1d995af1ddadbdc-="">  Save  </a>
+            <form action="https://afribary.com/works/bakery-business-plan/save" method="POST" style="display: inline;" id="save-work-form-bakery-business-plan">
+                <input type="hidden" name="_token" value="DdM6Btt5Pv1bFYP3zUuuDmcXnKf7dpDJAAWOpkIe" autocomplete="off">
+            </form>
+        
+                    <a href="https://afribary.com/works/bakery-business-plan/review" class="btn btn-outline-secondary btn-sm mb-1"> Write a Review </a>
+            <a href="https://afribary.com/works/bakery-business-plan/report" class="btn btn-outline-danger btn-sm mb-1"> Report </a>
+            
+        
+                    
+                            <a href="https://afribary.com/works/bakery-business-plan/download" class="btn btn-outline-secondary btn-sm mb-1"> Download </a>
+                            
+    </div>
+
+
+                    <div class="social-share-cta mt-2">
+                        <span> Share this work:</span>
+<a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://afribary.com/templates/bakery-business-plan" title="Share on Facebook" ><img src="https://afribary.com/img/socials/facebook.svg" alt="Facebook" /></a>
+<a target="_blank" href="https://twitter.com/intent/tweet?url=https://afribary.com/templates/bakery-business-plan&text=Bakery+Business+Plan" title="Share on Twitter" ><img src="https://afribary.com/img/socials/twitter.svg" alt="Twitter" /></a>
+<a target="_blank" href="whatsapp://send?text=Bakery+Business+Plan https://afribary.com/templates/bakery-business-plan" data-action="share/whatsapp/share" title="Share on Whatsapp" ><img src="https://afribary.com/img/socials/whatsapp.svg" alt="WhatsApp" /></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+                            <section class="section-container" style="display: table-row; height:100%;">
+    <div class="container" style="height: 100%">
+        <div class="row justify-content-center" style="height: 100%">
+            <div class="col-lg-10" style="height: 100%">
+                <div class="allpages" style="height: 100%">
+                    <div class="singlepage shadow" id="singlepage" style="height: 100%">
+                                                    <div class="topad" id="topad">
+                            <!-- /23212819861/topreadpage -->
+                            <div id='div-gpt-ad-1732028014573-0' style='min-width: 320px; min-height: 50px;'>
+                            <script type="d9c558fda1d995af1ddadbdc-text/javascript">
+                                googletag.cmd.push(function() { googletag.display('div-gpt-ad-1732028014573-0'); });
+                            </script>
+                            </div>
+                            </div>
+                            <iframe width="100%" height="100%" id="contentFrame" border="0" seamless="true" frameborder="0" allowtransparency="true" src="https://afribary.com/works/bakery-business-plan/view?totalpages=10&amp;file=https%3A%2F%2Fafribary.com%2Fworks%2Fbakery-business-plan%2Ffile"></iframe>
+                                                              
+
+                        <!-- <iframe width="100%" height="100%" id="contentFrame" border="0" seamless="true" frameborder="0" allowtransparency="true" src="https://afribary.com/works/bakery-business-plan/html"></iframe> -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+</section>
+
+<a href="javascript:" id="return-to-top"><i class="icon-chevron-right"></i></a>
+            
+            <div class="ad mt-2 mb-2">
+<!-- Afribary main Single bottom 2 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3143548529401804"
+     data-ad-slot="9552023207"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script type="d9c558fda1d995af1ddadbdc-text/javascript">
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+                            <section class="section-container">
+                <div class="container">
+                    <div class="row justify-content-center">
+                        <div class="col-md-10">
+                            <div class="jumbotron unlock-box">
+                                <img class="unlock" src="https://afribary.com/img/preview/icon-arrow-locked.svg">
+                                <h3 class="display-6"> Join Afribary to Unlock Full Content </h3>
+                                <ul class="unlock-box-content">
+                                    <li>Access thousands of Academic, business and legal documents</li>
+                                    <li>Share your quality papers, documents with a global community</li>
+                                    <li>Build your professional profile. Publish your papers and reach thousands of scholars. Get cited and reviewed</li>
+                                </ul>
+                                <p class="lead"> <a href="https://afribary.com/register?redirect_url=/works/bakery-business-plan/read" class="btn btn-lg btn-success">Join For Free</a> </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                </section>
+            
+            
+            <footer class="footer-section mt-2">
+    <div class="container py-4">
+        <div class="row">
+            <div class="col-12">
+                <div class="footer-category-links">
+                    <span class="font-weight-bold">SECTIONS: </span> <a href="/business/fields/management-strategy/sub-fields/plans-proposals"> Business Plan Templates </a>
+<a href="/works"> Academic Thesis &amp; Papers </a>
+<a href="/legal/fields/law-legal/sub-fields/laws-statutes-acts"> Law / Statuses </a>
+<a href="/business/fields/human-resources"> HR Templates </a>
+<a href="/study"> Study Materials </a>
+<a href="/legal/fields/law-legal/sub-fields/court-cases-filings">  Court Cases &amp; Filings </a>
+<a href="/business/fields/career/sub-fields/applications-letters"> Applications/Letters </a>
+<a href="/business/fields/finance?search=&amp;types%5B%5D=template"> Business Finance Templates </a>
+<a href="/business/fields/career"> Career </a>
+<a href="/legal/fields/templates-contracts/sub-fields/agreements-contracts">  Agreements &amp; Contracts </a>
+<a href="/legal/fields/templates-contracts/sub-fields/policies"> Policies Templates </a>
+                </div>
+            </div>
+        </div>
+        <hr/>
+        <div class="row">
+                    <div class="col-lg-3">
+                        <ul class="list-unstyled padding-none">
+                            <li class="font-weight-bold mb-3">Resources & Tools</li>
+                            <li><a class="text-muted" href="https://afribary.com/works"> Browse Research Works </a></li>
+                            <li><a class="text-muted" href="https://afribary.com/business"> Business Documents & Templates </a></li>
+                            <li><a class="text-muted" href="https://afribary.com/legal"> Legal Documents & Templates </a></li>
+                            <li><a class="text-muted" href="https://afribary.com/study"> Browse Study Materials </a></li>
+                            <li><a class="text-muted" href="https://afribary.com/books"> Browse Books </a></li>
+                            <li><a class="text-muted" href="https://afribary.com/plagiarism-checker"> Plagiarism Checker Tool </a></li>
+                            <li><a class="text-muted" href="https://afribary.com/topics"> Get Topics by Field </a></li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-3">
+                        <ul class="list-unstyled padding-none">
+                            <li class="font-weight-bold mb-3">Company Info</li>
+                            <li><a class="text-muted" href="https://afribary.com/about"> About </a></li>
+                            <li><a class="text-muted" href="https://afribary.com/pricing"> Pricing </a></li>
+                            <li><a class="text-muted" href="https://afribary.com/blog"> Blog </a></li>
+                            <li><a class="text-muted" href="https://afribary.com/grants"> Research Grant </a></li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-3">
+                        <ul class="list-unstyled padding-none">
+                            <li class="font-weight-bold mb-3">Help</li>
+                            <li><a class="text-muted" href="https://afribary.com/contact-us"> Contact </a></li>
+                            <li><a class="text-muted" href="https://afribary.com/how-to-order"> How it Works </a></li>
+                            <li><a class="text-muted" href="https://afribary.com/faqs"> FAQS </a></li>
+                            <li></li>
+                            <li><a class="text-muted" href="https://afribary.com/knowledge"> Knowledge Base </a></li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-3">
+                        <div class="mb-1 apps">
+                            <div class="font-weight-bold mb-3">Get our App</div>
+                        <a href="https://play.google.com/store/apps/details?id=com.afribary" title="Afribary Android App"><img src="https://afribary.com/img/socials/play_store.svg" alt="Afribary Android App" /></a>
+                        </div>
+                                                <a href="" class="btn btn-primary btn-sm mb-2">Create an Account</a>
+                        
+                        <div class="footer-social">
+                            <a href="https://www.facebook.com/afribary" title="Facebook"><img src="https://afribary.com/img/socials/facebook.svg" alt="Facebook" /></a>
+                            <a href="https://www.twitter.com/afribary" title="Twitter"><img src="https://afribary.com/img/socials/twitter.svg" alt="Twitter" /></a>
+                            <a href="https://www.linkedin.com/company/afribarylimited" title="LinkedIn"><img src="https://afribary.com/img/socials/linkedin.svg" alt="LinkedIn" /></a>
+                            <a href="https://www.instagram.com/afribary_" title="Instagram"><img src="https://afribary.com/img/socials/instagram.svg" alt="Instagram" /></a>
+                        </div>
+                    </div>
+                </div>
+    </div>
+</footer>
+<section class="footer-section bg-light">
+        <div class="container">
+        <div class="row">
+            <div class="col-sm-12 col-md-12 col-lg-10 order-2 order-sm-1">
+                <p class="copyright-links">
+                    <a href="https://afribary.com/privacy-policy"> Privacy Policy </a> |
+                    <a href="https://afribary.com/refund-policy"> Refund Policy </a> |
+                    <a href="https://afribary.com/terms"> Terms </a> |
+                    <a href="https://afribary.com/copyright"> Copyright </a> | 
+                    ©  2025, Afribary Limited. All rights reserved.
+                </p>
+            </div>
+        </div>
+        </div>
+    </section>
+
+        </div>
+    </div>
+
+
+
+<script src="/js/production.min.js?id=af9ef2b345fc123b7596d28fef950b77" type="d9c558fda1d995af1ddadbdc-text/javascript"></script>
+<script type="d9c558fda1d995af1ddadbdc-text/javascript">
+    $(document).ready(function(){
+        //sticky header
+        $(".custom-navbar").sticky({ topSpacing: 0});
+
+        //Fastclick
+        window.addEventListener('load', function() {
+            new FastClick(document.body);
+        }, false);
+
+        if (location.hash !== '') $('a[href="' + location.hash + '"]').tab('show');
+        // remember the hash in the URL without jumping
+        $('a[data-toggle="tab"]').on('shown.bs.tab', function(e) {
+            if(history.pushState) {
+                history.pushState(null, null, '#'+$(e.target).attr('href').substr(1));
+            } else {
+                location.hash = '#'+$(e.target).attr('href').substr(1);
+            }
+        });
+    });
+</script>
+
+
+
+    <!-- <script type="text/javascript">
+        var showAll = false;
+    </script> -->
+    <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/4.8.69/pdf.min.mjs" type="module"></script>
+    <script type="module">
+
+        $("#pdf-loader").show();
+    // If absolute URL from the remote server is provided, configure the CORS
+    // header on that server.
+    var url = "https://afribary.com/works/bakery-business-plan/file"
+
+    // Loaded via <script> tag, create shortcut to access PDF.js exports.
+    var { pdfjsLib } = globalThis;
+
+    // The workerSrc property shall be specified.
+    pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/4.8.69/pdf.worker.min.mjs';
+
+
+    //   var currPage = 1; //Pages are 1-based not 0-based
+    //   var numPages = 0;
+    var thePdf = null;
+    var scale = 2.5;
+
+    var mainCanvas = document.getElementById('the-canvas');
+    var viewer = document.getElementById('pdf-viewer');
+
+    pdfjsLib.getDocument({url: url, disableAutoFetch: true, disableStream: true}).promise.then(function(pdf) {
+            thePdf = pdf;
+
+            
+            var pagesToShow = showAll ? pdf.numPages : (pdf.numPages > 50 ? Math.ceil(pdf.numPages / 10) : Math.ceil(pdf.numPages / 4));
+
+            
+            for(let page = 1; page <= pagesToShow; page++) {
+                var textDiv = document.createElement("div");
+
+                // Set id attribute with page-#{pdf_page_number} format
+                textDiv.setAttribute("id", "page-" + (page + 1));
+
+                // This will keep positions of child elements as per our needs
+                textDiv.setAttribute("style", "position: relative");
+
+
+                if(page % 3 === 0) {
+                var ad = document.createElement("div");
+                ad.className = 'ad'
+                ad.innerHTML = (`<ins class="adsbygoogle" 
+                                style="display:block" 
+                                data-ad-client="ca-pub-3143548529401804" 
+                                data-ad-slot="3011597796" data-ad-format="auto" 
+                                data-full-width-responsive="true">
+                                </ins> 
+                                <script> (adsbygoogle = window.adsbygoogle || []).push({}); ${"</scr" + "ipt>"}
+
+                                `);
+
+
+                viewer.appendChild(ad);
+            }
+
+                // Append div within div#pdf-viewer
+                viewer.appendChild(textDiv);
+
+                var canvas = document.createElement("canvas");    
+                canvas.className = 'pdf-page-canvas';
+
+                
+
+                textDiv.appendChild(canvas);
+
+                
+
+                renderPage(page, canvas, textDiv);
+                }
+        });
+        
+        function renderPage(pageNumber, canvas, textDiv) {
+            $("#page-loader").show();
+            thePdf.getPage(pageNumber).then(function(page) {
+            let viewport = page.getViewport({ scale: scale });
+            canvas.height = viewport.height;
+            canvas.width = viewport.width;          
+            page.render({canvasContext: canvas.getContext('2d'), viewport: viewport})
+            $("#pdf-loader").hide();
+            });
+        }
+
+    </script> -->
+        
+    <script src="https://afribary.com/pdfjs/web/view_readonly.js" type="d9c558fda1d995af1ddadbdc-module"></script>
+    <script src="/js/readWork.js?id=c3907eeecccf3bb7af91f7773863d985" type="d9c558fda1d995af1ddadbdc-text/javascript"></script>
+
+    <!-- <script type="text/javascript">
+        window.onload = function() {
+            
+            setTimeout(iframeLoaded, 5);
+
+            setTimeout(function(){
+                (adsbygoogle = window.adsbygoogle || []).push({});
+            }, 1000)
+        }
+        
+    </script> -->
+    <script type="d9c558fda1d995af1ddadbdc-text/javascript">
+        document.addEventListener("webviewerdocumentloaded", function(e) {
+            // console.log(e);
+            iframeLoaded();
+            setTimeout(function(){
+                (adsbygoogle = window.adsbygoogle || []).push({});
+            }, 1000)
+
+        }, true);
+        
+    </script>
+    
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="d9c558fda1d995af1ddadbdc-|49" defer></script><script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"0d079afc257648118ef67afbc42d4fe8","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+</body>
+</html>
