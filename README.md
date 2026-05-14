@@ -6,13 +6,13 @@ Python is one of the most commonly used dynamic languages for large organisation
 
 ---
 
-## 🚀 How to Open Notebooks
+##  How to Open Notebooks
 
 Click any **Open in Colab** button below to launch that notebook directly in Google Colab. No download or GitHub account required.
 
 ---
 
-## 📚 Course Notebooks
+##  Course Notebooks
 
 ### Section 1 Getting Started with Jupyter
 
