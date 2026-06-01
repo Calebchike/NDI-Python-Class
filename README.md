@@ -130,6 +130,7 @@ Click any **Open in Colab** button below to launch that notebook directly in Goo
 ## 📄 Resources
 
 - [Getting Started with Python (PDF)](./Getting-Started-with-Python.pdf)
+- [Full Python Training (PDF)](./Full-Python-Training-Oliver.pdf)
 
 ---
 
