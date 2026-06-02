@@ -125,6 +125,17 @@ Click any **Open in Colab** button below to launch that notebook directly in Goo
 | 10_03 · JSON | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Okwybobby/NDI-Python-Class/blob/main/10_03_json.ipynb) |
 | 10_04 · Challenge Hints | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Okwybobby/NDI-Python-Class/blob/main/10_04_Challenge_Hints.ipynb) |
 
+
+---
+
+### Section 12 Data analysis with Pandas and Numpy
+
+| Notebook | Open in Colab |
+|----------|--------------|
+| 12_01 · Data analysis with Pandas and Numpy | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Okwybobby/NDI-Python-Class/blob/main/12_data_analysis_pandas_and_numpy2.ipynb) |
+
+
+
 ---
 
 ## 📄 Resources
