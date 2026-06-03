@@ -132,7 +132,7 @@ Click any **Open in Colab** button below to launch that notebook directly in Goo
 
 | Notebook | Open in Colab |
 |----------|--------------|
-| 11_01 · Data analysis with Numpy | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Okwybobby/NDI-Python-Class/blob/main/11_data_analysis_pandas_and_numpy.ipynb) |
+| 11_01 · Data analysis with Numpy | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Okwybobby/NDI-Python-Class/blob/main/11_data_analysis_numpy.ipynb) |
 
 
 
