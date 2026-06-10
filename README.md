@@ -146,7 +146,8 @@ Click any **Open in Colab** button below to launch that notebook directly in Goo
 
 | Notebook | Open in Colab |
 |----------|--------------|
-| 12_01 · Data visualisation with Matplotlib  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Okwybobby/NDI-Python-Class/blob/main/12_data_visualisation_with_matplotlib.ipynb) |
+| 12_01 · Data visualisation with Pandas  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Okwybobby/NDI-Python-Class/blob/main/12_data_visualisation_with_matplotlib.ipynb) |
+| 12_02 · Data visualisation with Matplotlib  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Okwybobby/NDI-Python-Class/blob/main/12_data_visualisation_with_matplotlib.ipynb) |
 
 
 ---
